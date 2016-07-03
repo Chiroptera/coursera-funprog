@@ -32,3 +32,8 @@ class Rational(x: Int, y: Int) {
 
   override def toString = numer/g + "/" + denom/g
 }
+
+object Main extends App {
+  // Print the trending tweets
+  println("hello world")
+}
